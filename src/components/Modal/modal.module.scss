@@ -1,0 +1,19 @@
+.modalBackground {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(22,22,22,0.5);
+
+}
+.modal {
+    background-color: rgb(244,244,244);
+    color: black;
+    width: 50%;
+    height: 50%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
